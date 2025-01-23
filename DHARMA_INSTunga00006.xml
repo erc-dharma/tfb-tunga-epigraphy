@@ -160,7 +160,9 @@ n="39"/>
 				<bibl n=""><ptr target="bib:"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">5</citedRange><citedRange unit="page">390-391</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="item">9</citedRange><citedRange unit="page">56-57</citedRange></bibl>
+               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">5</citedRange><citedRange unit="page">390-391</citedRange></bibl>
+              <!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>

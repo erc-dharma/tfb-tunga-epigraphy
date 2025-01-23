@@ -138,7 +138,7 @@ n="27"/>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-             <p>Bibliographical reference : HP Shastri JBORS 6-2 1920 p.236-240 (no facsimile) bhandarkar list n°1747 . 6 verses in total four verses in the introductory portion in lines 5-12 describing the geneqlogy of the ruling family. 2 customary verses in lines 24-27; the donor is Rāṇaka Vinītatuṅga. <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="note">43</citedRange><citedRange unit="page">394</citedRange></bibl>: " the two Talcher plates of the Bhaumakara king Śivakaradeva of the Bhauma year 149 (CE885) refer to a subordinate chief named Rāṇaka Vinītatuṅga.  </p>
+             <p>Bibliographical reference : HP Shastri JBORS 6-2 1920 p.236-240 (no facsimile) bhandarkar list n°1747 . 6 verses in total four verses in the introductory portion in lines 5-12 describing the genealogy of the ruling family. 2 customary verses in lines 24-27; the donor is Rāṇaka Vinītatuṅga. <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="note">43</citedRange><citedRange unit="page">394</citedRange></bibl>: " the two Talcher plates of the Bhaumakara king Śivakaradeva of the Bhauma year 149 (CE885) refer to a subordinate chief named Rāṇaka Vinītatuṅga.  </p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -147,6 +147,7 @@ n="27"/>
 				<bibl n=""><ptr target="bib:"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
+               <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="item">1</citedRange><citedRange unit="page">474-475</citedRange></bibl>
               <bibl><ptr target="bib:Acharya2014_01"/><citedRange unit="item">7</citedRange><citedRange unit="page">393-395</citedRange></bibl><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
