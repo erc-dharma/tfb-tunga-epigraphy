@@ -91,6 +91,7 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
+             <!-- text encoded based on Acharya2022 -->
              <pb n="1v"/>
               <p>
                   <lb 
@@ -108,17 +109,49 @@ n="11"/><lb
 n="12"/><lb 
 n="13"/>
                   <pb n="1v"/><lb 
-n="14"/><lb 
-n="15"/><lb 
-n="16"/><lb 
-n="17"/><lb 
-n="18"/><lb 
-n="19"/><lb 
-n="20"/><lb 
-n="21"/><lb 
-n="22"/><lb 
-n="23"/>
-                  </p>
+n="14"/>Api ca paṭhyate<surplus><g type="danda">.</g></surplus> ddharmmaśāstre<g type="danda">.</g></p>
+             <lg met="anuṣṭubh" n="2"><!-- best_0023 -->      
+            <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir vasudhā dattā<surplus>ḥ</surplus></l>
+            <l n="b">rājabh<choice><sic>ī</sic><corr>i</corr></choice>ḥ<lb 
+n="15"/> sagarādibh<choice><sic>ī</sic><corr>i</corr></choice>ḥ</l>
+            <l n="c">yasya yasya yadā bhūmi<surplus>ḥ</surplus> s</l>
+            <l n="d">tasya tasya tadā phalaṁ</l>
+                       </lg>
+                        <lg met="anuṣṭubh" n="3"><!-- best_0085cd -->
+            <l n="c">sva-<lb 
+n="16" break="no"/>dattā p<surplus>a</surplus>halam ānantyam</l>
+            <l n="d">para-dattānupālan<choice><sic>aṁ</sic><corr>e</corr></choice></l>
+                        </lg>
+              <lg met="anuṣṭubh" n="4"><!-- best_0132_00 -->
+                        <l n="a">sva-dattaś ca para-dattām vā<surplus><g type="ddanda">.</g></surplus></l>
+                        <l n="b"><lb 
+n="17"/>yo hare<supplied reason="omitted">ta</supplied> vasundharā<supplied reason="omitted">M</supplied><g type="danda">.</g></l>
+                        <l n="c">sva viṣṭhāyāṁ kr̥m<choice><sic>ī</sic><corr>i</corr></choice>r bhūtvā<surplus><g type="danda">.</g></surplus></l>
+                        <l n="d">pitr̥bhiḥ saha pacyate</l>
+                    </lg>
+             <lg met="anuṣṭubh" n="5"><!-- best_0183 -->
+                            <l n="a"><lb 
+n="18"/>A-sthiraṁ sarvvam ālocya</l>
+                            <l n="b">śarīraṁ yauvanaṁ dhanaṁ</l>
+                            <l n="c">satvasūḥ sūsratām <choice><orig>v</orig><reg>b</reg></choice>u<lb 
+n="19" break="no"/>ddh<choice><sic>ī</sic><corr>i</corr></choice>ḥ</l>
+                            <l n="d">sthirārambhā pravarttate</l>
+                       </lg>
+             <lg met="anuṣṭubh" n="6"><!-- unique little in common with best_0117? -->
+                 <l n="a">kva gatās-te mahī-pālāṁ<surplus><g type="ddanda">.</g></surplus></l>
+                 <l n="b">dattāyaiḥ <lb 
+n="20"/>bhutṛ-pādhyāyaḥ</l>
+                 <l n="c">Etat ukta bhūyo bhūyaḥ</l>
+             </lg>
+             <lg met="puṣpitāgrā" n="7"><!-- best_0071 -->
+                    <l n="a">Iti kamala-dalā<lb 
+n="21" break="no"/>m<choice><orig>v</orig><reg>b</reg></choice>u-<choice><orig>v</orig><reg>b</reg></choice>ind<choice><sic>ū</sic><corr>u</corr></choice>-lolāṁ</l>
+                    <l n="b">ś<choice><sic>ṛ</sic><corr>ri</corr></choice><supplied reason="omitted">ya</supplied>m anucintya manuṣya-jīvitaṁ ca</l>
+                    <l n="c">sakalam i<lb 
+n="22" break="no"/>dam udāhr̥taṁ ca <choice><sic>dhūdhyā</sic><corr>buddhvā</corr></choice></l>
+                    <l n="d">na <choice><sic>bhiḥ</sic><corr>hi</corr></choice> p<choice><sic>ū</sic><corr>u</corr></choice>ruṣaiḥ<surplus><g type="danda">.</g></surplus> para-kīr<choice><sic>ṇṇ</sic><corr>t</corr></choice>ayo vilo<choice><sic>s</sic><corr>p</corr></choice>yā<supplied reason="omitted">ḥ</supplied></l>
+                </lg><p><lb 
+n="23"/>iti<surplus>ḥ</surplus><g type="ddanda">.</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -140,7 +173,8 @@ n="23"/>
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="T"><ptr target="bib:Tripathy1980_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="T"><ptr target="bib:Tripathy1980_01"/></bibl>
+        	    <bibl n="A"><ptr target="bib:Acharya2022_01"/><citedRange unit="item">II</citedRange><citedRange unit="page">161-162</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="item">6</citedRange><citedRange unit="page">166-167</citedRange></bibl>
