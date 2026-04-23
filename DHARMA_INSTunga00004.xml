@@ -93,46 +93,8 @@
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1v"/>
               <p>
-                  <lb 
-n="1"/><lb 
-n="2"/><lb 
-n="3"/><lb 
-n="4"/><lb 
-n="5"/><lb 
-n="6"/><lb 
-n="7"/><lb 
-n="8"/><lb 
-n="9"/><lb 
-n="10"/><lb 
-n="11"/><lb 
-n="12"/><lb 
-n="13"/><lb 
-n="14"/><lb 
-n="15"/><lb 
-n="16"/><lb 
-n="17"/><lb 
-n="18"/><lb 
-n="19"/>
-                  <pb n="1v"/><lb 
-n="20"/><lb 
-n="21"/><lb 
-n="22"/><lb 
-n="23"/><lb 
-n="24"/><lb
-n="25"/><lb 
-n="26"/><lb 
-n="27"/><lb 
-n="28"/><lb 
-n="29"/><lb 
-n="30"/><lb 
-n="31"/><lb 
-n="32"/><lb 
-n="33"/><lb 
-n="34"/><lb 
-n="35"/><lb 
-n="36"/><lb 
-n="37"/><lb 
-n="38"/>
+                  <lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/><lb n="5"/><lb n="6"/><lb n="7"/><lb n="8"/><lb n="9"/><lb n="10"/><lb n="11"/><lb n="12"/><lb n="13"/><lb n="14"/><lb n="15"/><lb n="16"/><lb n="17"/><lb n="18"/><lb n="19"/>
+                  <pb n="1v"/><lb n="20"/><lb n="21"/><lb n="22"/><lb n="23"/><lb n="24"/><lb n="25"/><lb n="26"/><lb n="27"/><lb n="28"/><lb n="29"/><lb n="30"/><lb n="31"/><lb n="32"/><lb n="33"/><lb n="34"/><lb n="35"/><lb n="36"/><lb n="37"/><lb n="38"/>
                   </p>
          </div>
          <div type="apparatus">
@@ -155,7 +117,7 @@ n="38"/>
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n=""><ptr target="bib:Sircar1961-1962_07"/><citedRange unit="page">92-94</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl><ptr target="bib:Sircar1961-1962_07"/><citedRange unit="page">92-94</citedRange></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Tripathy2010_01"/><citedRange unit="item">10</citedRange><citedRange unit="page">58</citedRange></bibl>
